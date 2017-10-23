@@ -1,0 +1,33 @@
+@media screen and (max-width: 320px) {
+    h1 {
+        font-size: 25px;
+        padding-bottom: 7px;
+        border-bottom: 1px solid #000;
+    }
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    ul >li {
+        padding-bottom: 7px;
+        font-size: 18px;
+    }
+}
+
+@media screen and (min-width: 321px) {
+    h1 {
+        font-size: 30px;
+        padding-bottom: 8px;
+        border-bottom: 1px solid #000;
+    }
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    ul >li {
+        padding-bottom: 8px;
+        font-size: 21px;
+    }
+}

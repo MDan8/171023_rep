@@ -1,0 +1,236 @@
+@media screen and (max-width: 320px) {
+        body {
+            background-color: #888877;
+            padding-top: 60px;
+            font-family: Verdana, sans-serif;
+            text-align: center;
+            font-size: 16px;
+        }
+        form{
+            padding: 30px auto;
+            text-align: center;
+        }
+        input {
+            border-radius: 7px;
+            padding: 7px;
+            margin-bottom: 10px;
+            width: 65px;
+            font-size: 20px;
+        }
+        #chudan {
+            border-radius: 5px;
+            padding: 3px;
+            width: 60px;
+            font-size: 10px; 
+            position: absolute;
+            left: 20px;
+            top: 40px;
+        }
+        #timebx {
+            border:2px;
+            border-radius: 2px;
+            width: 12px;
+            padding: 2px;
+            font-size: 16px;
+        }
+        #ques {
+            text-align: center;
+        }
+        #startbtn {
+            width: 300px;
+            height: 200px;
+            -moz-border-radius: 150px / 100px;
+            -webkit-boder-radius: 150px / 100px;
+            border-radius: 150px / 100px;
+        }
+        #btncomment {
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 170px;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        #lastcomment {
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 146px;
+            font-size: 48px;
+            font-weight: bold;
+        }
+        #desu {
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 260px;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        #figs {
+            position: absolute;
+            left: 0px;
+            top: 350px;
+            width: 250px;
+        }
+        #delfgr {
+            width: 135px;
+            font-size: 18px;
+            padding: 5px;
+        }
+        #ansbtn {
+            position: absolute;
+            left: 235px;
+            top: 350px;
+            width: 75px;
+            height: 195px;
+            font-size: 18px;
+        }
+        
+        #mondai {
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 145px;
+            font-size: 40px;
+            letter-spacing: 7px;
+        }
+        
+        #kaitou1 {
+            position: absolute;
+            left: 120px;
+            top: 245px;
+            visibility: hidden;
+            font-size: 32px;
+        }
+        
+        #kaitou2 {
+            position: absolute;
+            left: 170px;
+            top: 240px;
+            visibility: hidden;
+            font-size: 32px;
+            width: 95px;
+            letter-spacing: 5px;
+        }
+}
+
+@media screen and (min-width: 321px) {
+        body {
+            background-color: #888877;
+            padding-top: 60px;
+            font-family: Verdana, sans-serif;
+            text-align: center;
+            font-size: 16px;
+        }
+        form{
+            padding: 30px auto;
+            text-align: center;
+        }
+        input {
+            border-radius: 7px;
+            padding: 7px;
+            margin-bottom: 10px;
+            width: 65px;
+            font-size: 20px;
+        }
+        #chudan {
+            border-radius: 5px;
+            padding: 3px;
+            width: 60px;
+            font-size: 10px; 
+            position: absolute;
+            left: 20px;
+            top: 40px;
+        }
+        #timebx {
+            border:2px;
+            border-radius: 2px;
+            width: 12px;
+            padding: 2px;
+            font-size: 16px;
+        }
+        #ques {
+            text-align: center;
+        }
+        #startbtn {
+            width: 300px;
+            height: 200px;
+            -moz-border-radius: 150px / 100px;
+            -webkit-boder-radius: 150px / 100px;
+            border-radius: 150px / 100px;
+        }
+        #btncomment {
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 170px;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        #lastcomment {
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 146px;
+            font-size: 48px;
+            font-weight: bold;
+        }
+        #desu {
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 260px;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        #figs {
+            position: absolute;
+            left: 0px;
+            top: 350px;
+            width: 250px;
+        }
+        #delfgr {
+            width: 135px;
+            font-size: 18px;
+            padding: 5px;
+        }
+        #ansbtn {
+            position: absolute;
+            left: 235px;
+            top: 350px;
+            width: 75px;
+            height: 195px;
+            font-size: 18px;
+        }
+        
+        #mondai {
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 145px;
+            font-size: 40px;
+            letter-spacing: 7px;
+        }
+        
+        #kaitou1 {
+            position: absolute;
+            left: 120px;
+            top: 245px;
+            visibility: hidden;
+            font-size: 32px;
+        }
+        
+        #kaitou2 {
+            position: absolute;
+            left: 170px;
+            top: 240px;
+            visibility: hidden;
+            font-size: 32px;
+            width: 95px;
+            letter-spacing: 5px;
+        }
+}
+
+
+

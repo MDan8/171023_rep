@@ -1,0 +1,42 @@
+@media screen and (max-width: 320px) {
+    body {
+            background-color: #888877;
+            padding-top: 30px;
+            font-family: Verdana, sans-serif;
+            text-align: center;
+         }
+    form {
+            padding: 30px auto;
+            text-align: center;
+         }
+    input {
+            border-radius: 5px;
+            padding: 7px;
+            margin-bottom: 10px;
+            width: 200px;
+            font-size: 20px;
+          }
+}
+
+@media screen and (min-width: 321px) {
+    body {
+            background-color: #888877;
+            padding-top: 35px;
+            font-family: Verdana, sans-serif;
+            text-align: center;
+            font-size: 18px;
+         }
+    form {
+            padding: 35px auto;
+            text-align: center;
+         }
+    input {
+            border-radius: 6px;
+            padding: 8px;
+            margin-bottom: 12px;
+            width: 235px;
+            font-size: 23px;
+          }
+
+}
+
